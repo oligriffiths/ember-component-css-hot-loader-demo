@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'eng-dash',
+    podModulePrefix: 'eng-dash/pods',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
