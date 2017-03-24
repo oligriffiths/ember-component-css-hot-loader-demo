@@ -2,8 +2,8 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'eng-dash',
-    podModulePrefix: 'eng-dash/pods',
+    modulePrefix: 'ember-hot-loader',
+    podModulePrefix: 'ember-hot-loader/pods',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
